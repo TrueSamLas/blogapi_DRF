@@ -151,12 +151,20 @@ class CategorySerializer(serializers.ModelSerializer):
 
 Получение всех постов
 
+![Снимок экрана 2024-09-11 151658](https://github.com/user-attachments/assets/47bceb31-03ea-46ee-a289-307c251b8ff8)
 
 Добавление поста
 
+![Снимок экрана 2024-09-11 151114](https://github.com/user-attachments/assets/d9916a5e-df04-476c-921d-d5522b13ce96)
 
 Изменение поста
 
+![Снимок экрана 2024-09-11 151140](https://github.com/user-attachments/assets/ad5e0050-d841-439f-ab87-9e2210703314)
 
 Удаление поста
 
+![Снимок экрана 2024-09-11 151155](https://github.com/user-attachments/assets/3824b20b-3219-42f6-a4ec-48ce91572e4d)
+
+СХЕМА БАЗЫ ДАННЫХ
+
+![Снимок экрана 2024-09-07 094743](https://github.com/user-attachments/assets/48d3144d-3ed2-4f0d-b0b4-e943701b609b)
